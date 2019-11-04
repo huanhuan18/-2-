@@ -1,0 +1,5 @@
+01.IndenttationError: unexpected indent
+缩进错误，Python不允许随意在代码之前增加缩进（tab、空格）
+
+02 TypeError: '>' not supported between instances of 'str' and 'int'
+字符类型错误
